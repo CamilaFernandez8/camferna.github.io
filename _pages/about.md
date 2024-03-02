@@ -14,7 +14,7 @@ Education
 ======
 
 
-Publications
+Articles and Publications
 ======
 
 

@@ -14,12 +14,12 @@ My current research is focus on survival analysis.
 
 Education
 ======
-\begin{itemize}
-\item Sorbonne University - Ph.D Student (2020-2024)
-\item Nokia Bell Labs - Ph.D Student (2020-2023)
-\item University of Chile - Master's Degree (2018-2020)
-\item University of Chile - Engineering's Degree (2012-2018)
-\end{itemize}
+
+* Sorbonne University - Ph.D Student (2020-2024)
+* Nokia Bell Labs - Ph.D Student (2020-2023)
+* University of Chile - Master's Degree (2018-2020)
+* University of Chile - Engineering's Degree (2012-2018)
+
 
 
 Articles and Publications

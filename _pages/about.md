@@ -22,7 +22,7 @@ Education
 
 Articles and Publications
 ======
-* Online Learning Approach for Survival Analysis. 
+* Online Learning Approach for Survival Analysis. C. Fernandez, P. Gaillard, J. de Vilmarest and O. Wintenberger. ArXiv:2402.05145 preprint (2024). [Download the paper here](https://arxiv.org/html/2402.05145v1)  
 
 
 For more information

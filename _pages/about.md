@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a PhD student at LPSM from Sorbonne University and Nokia Bell Labs. I had my bachelor's degree in mathematical engineering and my master's diploma in applied mathematics at University of Chile. I am interested in industrial research related to probability, statistics and data analysis.
 
-My current research is focus on survival analysis. 
+My research is focused on survival analysis. 
 
 
 Education
@@ -23,7 +23,9 @@ Education
 Articles and Publications
 ======
 * Online Learning Approach for Survival Analysis. C. Fernandez, P. Gaillard, J. de Vilmarest and O. Wintenberger. ArXiv:2402.05145 preprint (2024). [Download the paper here](https://arxiv.org/html/2402.05145v1)
-* Introduction to Online Survival Analysis. C. Fernandez, P. Gaillard, and O. Wintenberger. 54èmes Journées de Statistiques de la Société Française de Statistique (SFdS), (2023). [Download the paper here](https://drive.google.com/file/d/1_KeLhWYrqphCyOhDhQFjJER5HfXOHRzD/view)  
+* Introduction to Online Survival Analysis. C. Fernandez, P. Gaillard, and O. Wintenberger. 54èmes Journées de Statistiques de la Société Française de Statistique (SFdS), (2023). [Download the paper here](https://drive.google.com/file/d/1_KeLhWYrqphCyOhDhQFjJER5HfXOHRzD/view)
+* Ensemble Methods for Data Analytics. C. Fernandez, C.S. Chen, P. Gaillard and A. Silva. 53èmes Journées de Statistiques de la Société Française de Statistique (SFdS), (2022) [Download the paper here](https://jds22.sciencesconf.org/data/pages/LivretJdS22_version_longue.pdf)
+* Experimental Comparison of Semi-Parametric, Parametric and Machine Learning Methods for Time-to-Event Analysis Through the IPEC Score. C. Fernandez, C.S. Chen, P. Gaillard and A. Silva. 52èmes Journées de Statistiques de la Société Française de Statistique (SFdS), (2021) [Download the paper here](https://jds2021.sciencesconf.org/data/pages/book_jds2021_fr_compressed.pdf)
 
 
 For more information

@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a PhD student at LPSM from Sorbonne University and Nokia Bell Labs. I had my bachelor's degree in mathematical engineering and my master's diploma in applied mathematics at University of Chile. I am interested in industrial research related to probability, statistics and data analysis.
 
-My research is focused on survival analysis. 
+My research is focused on both the theoretical aspects and the industrial applications of survival analysis. Particularly, I explore the use of online convex optimization and regret bound analysis in the context of censored data. Additionally, I am interestedn the implementation of machine learning methods adapted to the survival problem and its interpretability.
 
 
 Education

@@ -21,11 +21,10 @@ Education
 * University of Chile - Engineering's Degree (2012-2018)
 
 
-
 Articles and Publications
 ======
 
 
-For more info
+For more information
 ------
-[the guide](https://academicpages.github.io/markdown/).
+Refer to my [Linkedin](https://www.linkedin.com/in/camferna) page.

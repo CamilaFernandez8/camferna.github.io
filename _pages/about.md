@@ -23,10 +23,10 @@ Education
 
 Articles and Publications
 ======
+* Experimental Comparison of Ensemble Methods and Time-to-Event Analysis Models. C. Fernandez, C.S. Chen, P. Gaillard and A. Silva. ArXiv:2403.07460 (2024). [Download the paper here](https://arxiv.org/abs/2403.07460)
 * Online Learning Approach for Survival Analysis. C. Fernandez, P. Gaillard, J. de Vilmarest and O. Wintenberger. ArXiv:2402.05145 preprint (2024). [Download the paper here](https://arxiv.org/html/2402.05145v1)
 * Introduction to Online Survival Analysis. C. Fernandez, P. Gaillard, and O. Wintenberger. 54èmes Journées de Statistiques de la Société Française de Statistique (SFdS), (2023). [Download the paper here](https://drive.google.com/file/d/1_KeLhWYrqphCyOhDhQFjJER5HfXOHRzD/view)
 * Ensemble Methods for Data Analytics. C. Fernandez, C.S. Chen, P. Gaillard and A. Silva. 53èmes Journées de Statistiques de la Société Française de Statistique (SFdS), (2022). [Download the paper here](https://jds22.sciencesconf.org/data/pages/LivretJdS22_version_longue.pdf)
-* Experimental Comparison of Semi-Parametric, Parametric and Machine Learning Methods for Time-to-Event Analysis Through the IPEC Score. C. Fernandez, C.S. Chen, P. Gaillard and A. Silva. 52èmes Journées de Statistiques de la Société Française de Statistique (SFdS), (2021). [Download the paper here](https://jds2021.sciencesconf.org/data/pages/book_jds2021_fr_compressed.pdf)
 
 
 For more information
